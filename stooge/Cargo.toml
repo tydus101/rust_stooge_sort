@@ -2,5 +2,9 @@
 name = "stooge"
 version = "0.1.0"
 authors = ["tyler <trr4652@rit.edu>"]
+license = "MIT"
+description = "An implementation of Stooge Sort in Rust."
+repository = "https://github.com/tydus101/rust_stooge_sort.git"
+homepage = "https://github.com/tydus101/rust_stooge_sort"
 
 [dependencies]
