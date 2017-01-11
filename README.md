@@ -14,4 +14,4 @@ fn main() {
 	return v; // [1, 3, 4, 5]
 }
 ```
-To my knowledge, I am the first person to take up this task in Rust. Clearly we are treading historic ground here. 
+I wrote stooge in order to learn Rust. To my knowledge, I am the first person to take up this task in the language. Clearly we are treading historic ground here.
